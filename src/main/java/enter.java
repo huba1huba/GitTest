@@ -5,4 +5,7 @@ package src.main.java;
  * @create 2022-05-08 16:13
  */
 public class enter {
+    public static void main(String[] args) {
+        System.out.println("hello,git!");
+    }
 }
